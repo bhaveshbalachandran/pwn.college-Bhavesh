@@ -1,6 +1,6 @@
 # Intro to commands
 
-## My colve
+## My solve
 **Flag:** 'pwn.college{cinwTt0x1qBDHc4aFEIrysBcgNu.QX3YjM1wiNyEZNZEZW}'
 The challenge says “invoke the hello command to get the flag.” 
 the direct approach is to run the named command.
