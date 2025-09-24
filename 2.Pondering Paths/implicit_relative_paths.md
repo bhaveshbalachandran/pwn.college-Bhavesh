@@ -1,4 +1,5 @@
-# Challenge 6: Implicit_relative_paths
+
+# Challenge 6: Implicit_relative_paths,from /
 
 The The challenge is about understanding relative paths and how the current working
  directory (cwd) affects them. The level required running the 'run' program using a
