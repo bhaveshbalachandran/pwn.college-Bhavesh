@@ -1,4 +1,6 @@
-# Challenge 2 : Pondering_Paths
+
+# Challenge 2 : Program_and_absolute_path
+
 The challenge is about executing a program located in the /challenge directory using its absolute path.
 
 ##My solve
