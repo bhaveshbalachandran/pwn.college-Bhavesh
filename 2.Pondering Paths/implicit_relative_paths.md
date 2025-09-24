@@ -1,4 +1,5 @@
 
+
 # Challenge 6: Implicit_relative_paths,from /
 
 The The challenge is about understanding relative paths and how the current working
@@ -19,6 +20,7 @@ Correct!!!
 challenge/run is a relative path, invoked from the right directory!
 Here is your flag:
 pwn.college{4NA7_jxRcplDwR6cRW__4Itm5qn.QX5QTN0wiNyEzNzEzW}
+```
 
 ## What I Learned 
 
