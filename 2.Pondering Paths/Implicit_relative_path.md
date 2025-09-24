@@ -23,6 +23,7 @@ Here is your flag:
 pwn.college{cK7svNfa9QyHEANRI_zrHFdwXrn.QXxUTN0wiNyEzNzEzW}
 ```
 
+
 ## What I Learned 
 By default, the shell does not look in the current directory for commands 
 when you type a “naked” name 'run' — this is a safety feature.
