@@ -1,4 +1,6 @@
-#Challenge 3 : Position_Thy_Self
+
+# Challenge 3 : Position_thy_self
+
 The challenge is about navigating using the cd command and executing the 
 program from a specific directory 
 
