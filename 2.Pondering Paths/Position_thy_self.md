@@ -1,4 +1,5 @@
 
+
 # Challenge 3 : Position_thy_self
 
 The challenge is about navigating using the cd command and executing the 
@@ -18,6 +19,7 @@ Correct!!!
 /challenge/run is an absolute path, invoked from the right directory!
 Here is your flag:
 pwn.college{0fUwecxgsJFtX-MlTVFFCyXN5Xs.QX2QTN0wiNyEzNzEzW}
+```
 
 ## What I Learned
 This challenge taugh me how to navigate directories using the cd command
