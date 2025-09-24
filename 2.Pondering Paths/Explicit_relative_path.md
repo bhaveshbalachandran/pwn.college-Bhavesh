@@ -1,7 +1,8 @@
 Challenge 7 : Explicit_Relative_Paths
+
 The challenge is about using the '.' (current directory) entry inside relative paths. 
-It demonstrates that '.' can be inserted anywhere in a path without changing 
-what it refers to, and that './challenge/./run' is equivalent to 'challenge/run' 
+It demonstrates that '.' can be inserted anywhere in a path without changing what it refes
+to and that './challenge/./run' is equivalent to 'challenge/run' 
 when your current working directory is '/'.
 
 ## My Solve 
@@ -30,4 +31,6 @@ N/A
 
 ## References
 N/A
+
+
 
