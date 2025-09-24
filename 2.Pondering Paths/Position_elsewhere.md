@@ -1,4 +1,4 @@
-# Challenge 4: Navigate_and_execute 
+# Challenge 4 : Position_elsewheree 
 
 The challenge is about navigating the filesystem using the cd command 
 and executing a program from a specific directory
