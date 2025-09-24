@@ -1,3 +1,4 @@
+
 Challenge 8 : Implicit_relative_path
 
 The challenge is about explicitly running a program that lives in the current 
@@ -9,7 +10,7 @@ so you must tell the shell you mean “the program in this directory” by using
 **Flag:**'pwn.college{cK7svNfa9QyHEANRI_zrHFdwXrn.QXxUTN0wiNyEzNzEzW}'
 
 I changed my working directory to '/challenge' and then explicitly invoked the 'run'
-program in the current directory using './run'
+program in the current directory using './run'.
 ```
 
 hacker@paths~implicit-relative-path:~$ cd /challenge
