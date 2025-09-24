@@ -1,4 +1,5 @@
-Challenge 7 : Explicit_Relative_Paths
+
+# Challenge 7 : Explicit_Relative_Paths,From /
 
 The challenge is about using the '.' (current directory) entry inside relative paths. 
 It demonstrates that '.' can be inserted anywhere in a path without changing what it refes
