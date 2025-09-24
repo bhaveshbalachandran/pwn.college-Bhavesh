@@ -1,4 +1,5 @@
 
+
 # Challenge 7 : Explicit_Relative_Paths,From /
 
 The challenge is about using the '.' (current directory) entry inside relative paths. 
@@ -19,6 +20,7 @@ Correct!!!
 ./challenge/run is a relative path, invoked from the right directory!
 Here is your flag:
 pwn.college{sWO7npfriZmKBViRvid5oAbWikJ.QXwUTN0wiNyEzNzEzW}
+```
 
 ## What I Learned 
 '.' refers to the current directory and can be used anywhere in a path without 
