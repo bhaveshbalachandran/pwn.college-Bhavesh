@@ -12,7 +12,7 @@ pwn.college{cPJTI-hVBd0hDrP-ySuxQA_E_lP.QX3EDO0wiNyEzNzEzW:}
 ```
 
 ## What I Learned
-grep PATTERN file searches a file for lines containing PATTERN and 
+'grep pattern' searches a file for lines containing pattern and 
 prints matching lines.
 Use a unique substring of the flag as the search term to reliably locate the flag.
 grep is far faster and more practical than manually scanning very large files.
