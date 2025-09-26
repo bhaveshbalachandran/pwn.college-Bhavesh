@@ -1,4 +1,5 @@
-#Challenge 1 : Cat_not_the_pet_but_the_command!
+
+## Challenge 1 : Cat_not_the_pet_but_the_command!
 
 The challenge is about using the cat utility to read files. 
 The level copies the flag into a file in your home directory; 
@@ -21,6 +22,7 @@ hacker@commands~cat-not-the-pet-but-the-command:~$
 ```
 
 ## What I Learned
+
 cat prints file contents to stdout and can concatenate multiple files.
 If a filename is mistyped cat will report No such file or directory.
 cat with no arguments reads from standard input it is.
@@ -28,10 +30,12 @@ Useful for quick checks: ls to confirm filenames, file to check file type,
 and cat to view contents.
 
 ## Incorrect tangents
+
 Trying cat f failed because the file is named flag not f. 
 Always confirm the exact filename.
 
 ## References 
+
 N/A.
 
 
